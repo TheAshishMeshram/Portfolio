@@ -160,7 +160,7 @@ If you'd like to improve this project:
 
 ## 👨‍💻 Ashish Meshram
 
-- 🌐 Portfolio: https://ashuu-portfolio.netlify.app/
+- 🌐 Portfolio: https://ashishmeshram.netlify.app/
 - 💻 GitHub: https://github.com/TheAshishMeshram
 - 📍 Nagpur, Maharashtra, India
 
